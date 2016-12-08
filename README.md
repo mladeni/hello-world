@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+evo nešto pokušavam pa da vidim šta se dešava
+
